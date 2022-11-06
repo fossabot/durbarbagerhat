@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/WikipediaLibrary/hashtags.svg?branch=master)](https://travis-ci.org/WikipediaLibrary/hashtags)
 [![codecov](https://codecov.io/gh/Samwalton9/hashtags/branch/master/graph/badge.svg)](https://codecov.io/gh/Samwalton9/hashtags)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffaisalbsl21%2Fdurbarbagerhat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffaisalbsl21%2Fdurbarbagerhat?ref=badge_shield)
 
 # Hashtags
 
@@ -47,3 +48,7 @@ An old error message may be printed if you're not running in detached mode, but 
 Run tests with:
 
 >docker exec -it hashtags_app_1 python manage.py test
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffaisalbsl21%2Fdurbarbagerhat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffaisalbsl21%2Fdurbarbagerhat?ref=badge_large)
